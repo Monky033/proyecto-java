@@ -8,7 +8,7 @@ const productos = [
     {
     id: 2,nombre: "Adios",precio: 100,
     img:
-        "https://media.licdn.com/dms/image/C4D22AQGRE8MZCaOhsg/feedshare-shrink_2048_1536/0/1668099745727?e=1687996800&v=beta&t=5Tnlyl97mc5eZMp5MS3zVnweHeWSvYQD3FTJqnnS3HM",
+        "https://i.pinimg.com/236x/92/39/24/9239248d86043fe10253556f6f90aea5.jpg",
     cantidad: 1,
     },
     {
